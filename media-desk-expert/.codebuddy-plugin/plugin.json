@@ -1,0 +1,40 @@
+{
+  "name": "media-desk-expert",
+  "version": "1.0.0",
+  "description": "A content desk that turns one-line ideas into publishable short-video scripts, cover copy and storyboards, then reviews performance data into reusable writing rules.",
+  "agents": ["./agents/media-desk-expert.md"],
+  "skills": ["./skills/media-desk"],
+
+  "expertType": "agent",
+  "agentName": "media-desk-expert",
+
+  "displayName": {
+    "en": "Content Desk",
+    "zh": "自媒体工作台"
+  },
+  "profession": {
+    "en": "Content Operations Editor",
+    "zh": "自媒体内容主编"
+  },
+  "displayDescription": {
+    "en": "Turns a one-line idea into a publishable script: hooks, cover copy, storyboard, scheduling and metrics review, then distils what worked into your own writing rules.",
+    "zh": "一句话记灵感，做出能发的口播脚本、封面和分镜，排期录数据，把有效做法沉淀成你自己的写作规则。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "06-ContentCreative",
+  "defaultInitPrompt": {
+    "zh": "记个灵感：用 AI 做封面总像素材拼的",
+    "en": "Save this idea: AI-made covers always look like a pile of assets"
+  },
+  "plugin": "media-desk-expert",
+  "tags": [
+    { "en": "Short-video scripts", "zh": "短视频脚本" },
+    { "en": "Cover and storyboard", "zh": "封面与分镜" },
+    { "en": "Data review", "zh": "数据复盘" }
+  ],
+  "quickPrompts": [
+    { "en": "Save this idea: AI-made covers always look like a pile of assets", "zh": "记个灵感：用 AI 做封面总像素材拼的" },
+    { "en": "This week's Douyin numbers are in — find the pattern behind them", "zh": "把这周的抖音数据录一下，看看有什么规律" },
+    { "en": "Turn this idea into a Douyin voiceover script in the AI tech blogger style", "zh": "把这条灵感做成口播脚本，走 AI 科技博主那个风格" }
+  ]
+}
