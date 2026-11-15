@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        先看一眼 [安装说明](../blob/main/INSTALL.md)，尤其是文末的「常见问题」表格。
+        先看一眼 [安装说明](https://github.com/phs-bitqun/media-desk-expert/blob/main/INSTALL.md)，尤其是文末的「常见问题」表格。
         如果还是卡住，把下面几项填全，能省掉一整轮来回追问。
 
   - type: dropdown
