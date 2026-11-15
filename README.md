@@ -36,6 +36,8 @@ cp -R media-desk-expert/media-desk-expert ~/.workbuddy/plugins/marketplaces/my-e
 
 详细步骤、常见问题、数据迁移见 **[安装说明](INSTALL.md)**。
 
+装不上就 **[提个 issue](https://github.com/phs-bitqun/media-desk-expert/issues/new/choose)**，表单会问系统、Node 版本、卡在哪一步和报错原文。
+
 ## 用起来是这样
 
 ```

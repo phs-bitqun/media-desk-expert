@@ -101,6 +101,12 @@ node "$env:USERPROFILE\.workbuddy\plugins\marketplaces\my-experts\plugins\media-
 | 看板图片是空白 | 看板必须和数据放在同一个目录，`files/` 是相对路径 |
 | 复盘数字不对 | 同一篇既导过数据又手录过，会重复计；有 `externalId` 时只认导入那行 |
 
+## 装不上怎么办
+
+提一个 issue：**https://github.com/phs-bitqun/media-desk-expert/issues/new/choose**
+
+选「安装 / 运行问题」，表单会问系统、Node 版本、卡在哪一步、报错原文。这几项填全，基本一轮就能定位问题。
+
 ## 卸载
 
 ```bash
